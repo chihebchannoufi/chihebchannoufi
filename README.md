@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot and Clean Architecture<br>🎯 Goals: Become a full-stack expert and contribute to open-source projects</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Spring Boot and Clean Architecture<br>🎯 Goals: Become a full-stack expert and contribute to open-source projects</p>
 
 ###
 
